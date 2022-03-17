@@ -34,9 +34,9 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
 ## Authors
 👤 **Author1**
-- GitHub: [@ijeomaese](https://github.com/Enekwestanley)
-- Twitter: [@iodinko](https://twitter.com/Tochukwu87)
-- LinkedIn: [Stanley Enekwe](https://linkedin.com/in/StanleyEnekwe)
+- GitHub: [@ijeomaese](https://github.com/ijeomaese)
+- Twitter: [@iodinko](https://twitter.com/Iodinko)
+- LinkedIn: [Ijeoma Odinko(https://www.linkedin.com/in/ijeoma-odinko
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
